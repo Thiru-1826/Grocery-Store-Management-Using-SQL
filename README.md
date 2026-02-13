@@ -55,9 +55,13 @@ ER Modeling
 📊 Key Features
 
 ✔ Inventory tracking
+
 ✔ Order management
+
 ✔ Supplier monitoring
+
 ✔ Sales analysis
+
 ✔ Customer purchase tracking
 
 📈 Sample Business Insights
