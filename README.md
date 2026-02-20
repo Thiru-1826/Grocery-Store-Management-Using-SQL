@@ -14,6 +14,7 @@ Analyze sales performance
 
 Support data-driven decision making
 
+
 🗂️ Database Structure
 
 The system consists of the following tables:
