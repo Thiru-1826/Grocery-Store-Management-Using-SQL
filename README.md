@@ -1,8 +1,8 @@
-Project Overview :
+## Project Overview :
 
 The Grocery Store Management System is a database-driven project designed to manage and analyze retail store operations. It helps track products, suppliers, customers, orders, and sales to support efficient business decisions.
 
-Objectives :
+## Objectives :
 
 Manage product inventory and categories
 
@@ -15,7 +15,7 @@ Analyze sales performance
 Support data-driven decision making
 
 
-Database Structure :
+## Database Structure :
 
 The system consists of the following tables:
 
@@ -33,7 +33,7 @@ Orders – order transactions
 
 Order_Details – items included in each order
 
-Entity Relationships :
+## Entity Relationships :
 
 One category contains many products
 
@@ -45,11 +45,11 @@ One employee processes many orders
 
 One order contains multiple products
 
-Technologies Used :
+## Technologies Used :
 
 My SQL
 
-Key Features :
+## Key Features :
 
 Inventory tracking
 
@@ -61,7 +61,7 @@ Sales analysis
 
 Customer purchase tracking
 
-Sample Business Insights :
+## Sample Business Insights :
 
 Identify top-selling products
 
